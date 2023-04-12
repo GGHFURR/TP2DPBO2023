@@ -33,15 +33,19 @@ Pada program ini terdapat delapan class dengan class `Login` sebagai main class.
 
 
 * Login
+
 ![image](https://user-images.githubusercontent.com/100921271/231485249-9c8f0a27-a222-4ab5-bc9f-8bb0d92ecbf4.png)
 
 * Register
+
 ![image](https://user-images.githubusercontent.com/100921271/231485492-5488ec43-7dca-47a3-8465-a2cac137479a.png)
 
 * Frame Home
+
 ![image](https://user-images.githubusercontent.com/100921271/231485652-b50893a1-c165-4277-b8f3-25f0a28fa91f.png)
 
 * Card
+
 ![image](https://user-images.githubusercontent.com/100921271/231485746-cd00adbb-63c7-45bd-907b-77573e3ab015.png)
 
 
