@@ -64,16 +64,22 @@ password: 123
 
 ## Dokumentasi
 * Login
+
 ![image](https://user-images.githubusercontent.com/100921271/231486984-a5fec82c-5895-406f-8a3a-ee638c41667d.png)
 * Register
+
 ![image](https://user-images.githubusercontent.com/100921271/231487250-7dc24254-7642-4195-86c7-a80ecc21b9bd.png)
 * Main Panel
+
 ![image](https://user-images.githubusercontent.com/100921271/231487364-57a06458-5c0e-4352-85de-ade602b73609.png)
 * Add Data
+
 ![image](https://user-images.githubusercontent.com/100921271/231487903-d6366748-5b37-446f-8ad6-97ff5fd0ff72.png)
 * Update Data
+
 ![image](https://user-images.githubusercontent.com/100921271/231493628-56a7b8c0-f6a8-427a-b0aa-5be3ff1c97f9.png)
 * Delete Data
+
 ![image](https://user-images.githubusercontent.com/100921271/231493774-13b13439-deff-48a6-8a44-f58f655f5f8f.png)
 
 
